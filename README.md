@@ -66,7 +66,7 @@ This project has no dependencies.
 #### Getting the project
 To get the project, use
 ```
-git clone  https://git.tecgraf.puc-rio.br/Research6/PublishedCodes/ARTMe.git
+git clone  https://github.com/JefersonRPCoelho/ARTMe.git
 ```
 
 #### Compiling
